@@ -67,7 +67,7 @@ src/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/Janics21/Buscador-de-peliculas.git
 cd movie-app
 ```
 
