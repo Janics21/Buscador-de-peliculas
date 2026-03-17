@@ -68,7 +68,6 @@ src/
 
 ```bash
 git clone https://github.com/Janics21/Buscador-de-peliculas.git
-cd movie-app
 ```
 
 ### 2. Instalar dependencias
